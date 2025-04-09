@@ -4620,7 +4620,7 @@ uuid@^11.0.3:
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-11.1.0.tgz#9549028be1753bb934fc96e2bca09bb4105ae912"
   integrity sha512-0/A9rDy9P7cJ+8w1c9WD9V//9Wj15Ce2MPz8Ri6032usz+NfePxx5AcN3bN+r6ZL6jEo066/yNYB3tn4pQEx+A==
 
-vite@^5.3.1:
+vite@^5.4.17:
   version "5.4.17"
   resolved "https://registry.yarnpkg.com/vite/-/vite-5.4.17.tgz#4bf61dd4cdbf64b0d6661f5dba76954cc81d5082"
   integrity sha512-5+VqZryDj4wgCs55o9Lp+p8GE78TLVg0lasCH5xFZ4jacZjtqZa6JUw9/p0WeAojaOfncSM6v77InkFPGnvPvg==
