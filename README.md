@@ -24,7 +24,13 @@ Wiki coming soon on all the features!
 
     ```
 
-1. **Build Tauri App**:  
+2. **Run Tauri App**:  
+   Run the following command in your terminal:
+    ```bash
+    yarn run tauri dev
+    ```
+    
+3. **Build Tauri App for Production**:  
    Run the following command in your terminal:
 
     ```bash
@@ -32,11 +38,7 @@ Wiki coming soon on all the features!
 
     ```
 
-1. **Run Tauri App**:  
-   Run the following command in your terminal:
-    ```bash
-    yarn run tauri dev
-    ```
+
 
 Side-note: If you wish to run the development web server (if you for some reason don't want to run it via tauri):
 
